@@ -20,7 +20,7 @@ sudo
 tasksel
 tmux
 tzdata-legacy
-vim
+neovim
 zsh
 zsh-autosuggestions
 zsh-syntax-highlighting
@@ -34,7 +34,7 @@ curl
 wget
 dbus-user-session
 dbus-x11
-firefox-esr | firefox
+firefox-esr
 haveged
 debian-archive-keyring
 xdg-utils
@@ -64,7 +64,7 @@ qt5ct
 qt6ct
 ranger
 rofi
-suckless-tools | dmenu
+suckless-tools
 sxiv
 thunar
 xclip
